@@ -18579,7 +18579,7 @@ p.drop-caps.drop-caps-style-2:first-letter {
 /* Text Color Default */
 .text-default,
 .text-color-default {
-	color: #777 !important;
+	color: #000 !important;
 }
 
 /* Video */
