@@ -49,7 +49,7 @@ class ContactsController extends Controller
         $contact->message = request('message');
         $contact->save();
 
-        \Mail::send('contact',
+        /*Mail::send('contact',
             array(
                 'name' => $request->get('fullname'),
                 'email' => $request->get('email'),
@@ -57,10 +57,15 @@ class ContactsController extends Controller
                 'user_message' => $request->get('message'),
             ), function($message) use ($request){
                 $message->from($request->email);
-                $message->to('vijoysniit@gmail.com');
+                $message->to('mail@cybernetics.me')->subject($request->subject);
             }
-        );
+        );*/
 
+        Mail::raw(request('message'), function ($message) use ($request) {
+            $message->from($request->email, $request->fullname);
+            $message->to('mail@cybernetics.me')->subject($request->subject);
+        });
+        
         return back()->with('success', 'Thank you! We have recieved your message and our team will reach you shortly.');
         //return redirect("/contact");
     }
