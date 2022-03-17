@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Contact;
+use Mail;
 
 class ContactsController extends Controller
 {
@@ -47,6 +48,19 @@ class ContactsController extends Controller
         $contact->subject = request('subject');
         $contact->message = request('message');
         $contact->save();
+
+        \Mail::send('contact',
+            array(
+                'name' => $request->get('fullname'),
+                'email' => $request->get('email'),
+                'subject' => $request->get('subject'),
+                'user_message' => $request->get('message'),
+            ), function($message) use ($request){
+                $message->from($request->email);
+                $message->to('vijoysniit@gmail.com');
+            }
+        );
+
         return back()->with('success', 'Thank you! We have recieved your message and our team will reach you shortly.');
         //return redirect("/contact");
     }
