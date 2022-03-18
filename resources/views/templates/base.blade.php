@@ -205,99 +205,125 @@
             @yield("home")
             @yield("contact")
             @yield("careers")
-			<footer id="footer" class="position-relative bg-dark border-top-0">		
-				<div class="container pt-5 pb-3">
-					<div class="row pt-5">
-						<div class="col-lg-4">
-							<a href="demo-business-consulting-4.html" class="text-decoration-none">
-								<img src="img/demos/business-consulting-4/logo-light.png" width="123" height="32" class="img-fluid mb-4" alt="Porto" />
-							</a>
-							<p class="text-3-5 font-weight-medium pe-lg-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit quisque rutrum pellentesqu. </p>
-							<ul class="list list-unstyled">
-								<li class="d-flex align-items-center mb-4">
-									<i class="icon icon-envelope text-color-light text-5 font-weight-bold position-relative top-1 me-3-5"></i>
-									<a href="mailto:porto@business-consulting-4.com" class="d-inline-flex align-items-center text-decoration-none text-color-light text-color-hover-primary font-weight-semibold text-4-5">porto@domain.com</a>
+            @yield("about")
+			<footer id="footer">
+				<div class="container">
+					<div class="footer-ribbon">
+						<span>Get in Touch</span>
+					</div>
+					<div class="row pt-5 my-4">
+						<div class="col-md-6 col-lg-4 mb-lg-0">
+							<h5 class="text-3 mb-3">ABOUT ENIECO</h5>
+							<p class="text-justify">A complete solution for your project requirements like Engineering, Inspection of Mechanical / Civil / Electrical Equipments at the Vendor's works, Auditing, Technical Staffing etc.</p>
+							<p class="text-justify">Whether for new construction or ongoing maintenance, our inspection and expediting services give confidence over the purchased equipments.</p>
+							<p class="mb-0"><a href="/about" class="btn-flat btn-xs text-color-light p-relative top-5"><strong class="text-2">VIEW MORE</strong><i class="fas fa-angle-right p-relative top-1 ps-2"></i></a></p>
+						</div>
+						<div class="col-md-6 col-lg-3 mb-lg-0">
+							<h5 class="text-3 mb-3">OUR BRANCHES</h5>
+							<ul class="list-unstyled mb-0">
+								<li class="d-flex mb-3 pb-1">
+									<article class="d-flex">
+										<div class="media-body">
+											<a href="#">
+												<h6 class="text-3 text-color-light opacity-8 ls-0 mb-1">STATE OF KUWAIT</h6>
+												<p class="text-justify">5th Floor, Office # 23, Boubyan Bank Building, Behind LuLu Center, Fahaheel, Kuwait<br/><span class="text-color-primary">Mob: +965 50257959<br/>Land Line: +965 23927425</span></p>
+											</a>
+										</div>
+									</article>
 								</li>
-								<li class="d-flex align-items-center mb-4">
-									<i class="icon icon-phone text-color-light text-5 font-weight-bold position-relative top-1 me-3-5"></i>
-									<a href="tel:8001234567" class="d-inline-flex align-items-center text-decoration-none text-color-light text-color-hover-primary font-weight-semibold text-4-5">800-123-4567</a>
+								<li class="d-flex">
+									<article class="d-flex">
+										<div class="media-body">
+											<a href="#">
+												<h6 class="text-3 text-color-light opacity-8 ls-0 mb-1">KINGDOM OF SAUDI ARABIA</h6>
+												<p class="text-justify">King Khalid Street, Building 13, 1st Floor, Office Number 1, Dammam<br/><span class="text-color-primary">Mob: +966 549594689</span></p>
+											</a>
+										</div>
+									</article>
 								</li>
-							</ul>
-							<ul class="social-icons social-icons-clean social-icons-medium">
-								<li class="social-icons-facebook">
-									<a href="http://www.facebook.com/" target="_blank" title="Facebook">
-										<i class="fab fa-facebook-f text-color-light"></i>
-									</a>
-								</li>
-								<li class="social-icons-twitter">
-									<a href="http://www.twitter.com/" target="_blank" title="Twitter">
-										<i class="fab fa-twitter text-color-light"></i>
-									</a>
-								</li>
-								<li class="social-icons-instagram">
-									<a href="http://www.instagram.com/" target="_blank" title="Instagram">
-										<i class="fab fa-instagram text-color-light"></i>
-									</a>
-								</li>
-								<li class="social-icons-linkedin">
-									<a href="http://www.linkedin.com/" target="_blank" title="Linkedin">
-										<i class="fab fa-linkedin text-color-light"></i>
-									</a>
+								<li class="d-flex">
+									<article class="d-flex">
+										<div class="media-body">
+											<a href="#">
+												<h6 class="text-3 text-color-light opacity-8 ls-0 mb-1">UNITED ARAB EMIRATES</h6>
+												<p class="text-justify">Office 301, Saeed Tower 2, Above KFC & Nandos, Sheikh Zayed Road, Dubai<br/><span class="text-color-primary">Mob: +91 9400146930 / +91 9605270522</span></p>
+											</a>
+										</div>
+									</article>
 								</li>
 							</ul>
 						</div>
-						<div class="col-lg-8">
-							<div class="row mb-5-5">
-								<div class="col-lg-6 mb-4 mb-lg-0">
-									<h4 class="text-color-light font-weight-bold mb-3">Navigation</h4>
-									<ul class="list list-unstyled columns-lg-2">
-										<li><a href="#" class="text-color-grey text-color-hover-primary">Home</a></li>
-										<li><a href="#" class="text-color-grey text-color-hover-primary">About Us</a></li>
-										<li><a href="#" class="text-color-grey text-color-hover-primary">Our Services</a></li>
-										<li><a href="#" class="text-color-grey text-color-hover-primary">Consultants</a></li>
-										<li><a href="#" class="text-color-grey text-color-hover-primary">Blog</a></li>
-										<li><a href="#" class="text-color-grey text-color-hover-primary">Contact Us</a></li>
-									</ul>
-								</div>
-								<div class="col-lg-6">
-									<h4 class="text-color-light font-weight-bold mb-3">Extra Links</h4>
-									<ul class="list list-unstyled columns-lg-2">
-										<li><a href="#" class="text-color-grey text-color-hover-primary">Elements</a></li>
-										<li><a href="#" class="text-color-grey text-color-hover-primary">Portfolio</a></li>
-										<li><a href="#" class="text-color-grey text-color-hover-primary">Careers</a></li>
-										<li><a href="#" class="text-color-grey text-color-hover-primary">Shop Pages</a></li>
-										<li><a href="#" class="text-color-grey text-color-hover-primary">Testimonials</a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="row">
-								<div class="col">
-									<div class="alert alert-success d-none" id="newsletterSuccess">
-										<strong>Success!</strong> You've been added to our email list.
-									</div>
-									<div class="alert alert-danger d-none" id="newsletterError"></div>
-									<div class="d-flex flex-column flex-lg-row align-items-start align-items-lg-center">
-										<h4 class="text-color-light ws-nowrap me-3 mb-3 mb-lg-0">Subscribe to Newsletter:</h4>
-										<form id="newsletterForm" class="form-style-3 w-100" action="php/newsletter-subscribe.php" method="POST">
-											<div class="d-flex">
-												<input class="form-control bg-color-light border-0 box-shadow-none" placeholder="Email Address" name="newsletterEmail" id="newsletterEmail" type="text" />
-												<button class="btn btn-primary ms-2 btn-px-3 btn-py-2 font-weight-bold" type="submit">
-													Go
-												</button>
-											</div>
-										</form>
-									</div>
-								</div>
-							</div>
+						<div class="col-md-6 col-lg-3 mb-lg-0">
+							<h5 class="text-3 mb-3">OUR BRANCHES</h5>
+							<ul class="list-unstyled mb-0">
+								<li class="d-flex mb-3 pb-1">
+									<article class="d-flex">							
+										<div class="media-body">
+											<a href="#">
+												<h6 class="text-3 text-color-light opacity-8 ls-0 mb-1">KINGDOM OF BAHRAIN</h6>
+												<p class="text-justify">Manama, Umm Al Hassan, Block # 339, Road # 3904, Building # 168, Flat # 21<br/><span class="text-color-primary">Mob: +973 35077082</span></p>
+											</a>
+										</div>
+									</article>
+								</li>
+								<li class="d-flex">
+									<article class="d-flex">
+										<div class="media-body">
+											<a href="#">
+												<h6 class="text-3 text-color-light opacity-8 ls-0 mb-1">INDONESIA</h6>
+												<p class="text-justify">Kelurahan Tiban Lama Kechamtan, Sekupang Batam, Ruko Tiban Mas Blok A. No. 41<br/><span class="text-color-primary">Mob: +91 9400146930 / +91 9605270522</span></p>
+											</a>
+										</div>
+									</article>
+								</li>
+								<li class="d-flex">
+									<article class="d-flex">
+										<div class="media-body">
+											<a href="#">
+												<h6 class="text-3 text-color-light opacity-8 ls-0 mb-1">INDIA</h6>
+												<p class="text-justify">C 55/4801(1) 2nd Floor, Sivam, Kaimanam, Pappanamcode P.O., Thiruvananthapuram, Kerala, India<br/><span class="text-color-primary">Mob: +91 9400146930 / +91 9605270522</span></p>
+											</a>
+										</div>
+									</article>
+								</li>
+							</ul>
+						</div>
+						<div class="col-md-6 col-lg-2">
+							<h5 class="text-3">SERVICES</h5>
+							<p>
+								<a href="#"><span class="badge badge-dark bg-color-black badge-sm py-2 me-1 mb-2 text-uppercase">Inspection</span></a>
+								<a href="#"><span class="badge badge-dark bg-color-black badge-sm py-2 me-1 mb-2 text-uppercase">Expediting</span></a>
+								<a href="#"><span class="badge badge-dark bg-color-black badge-sm py-2 me-1 mb-2 text-uppercase">Enngineering</span></a>
+								<a href="#"><span class="badge badge-dark bg-color-black badge-sm py-2 me-1 mb-2 text-uppercase">NDT / UT</span></a>
+								<a href="#"><span class="badge badge-dark bg-color-black badge-sm py-2 me-1 mb-2 text-uppercase">Technical Staffing</span></a>								
+								<a href="#"><span class="badge badge-dark bg-color-black badge-sm py-2 me-1 mb-2 text-uppercase">Social Impact Assessment</span></a>
+								<a href="#"><span class="badge badge-dark bg-color-black badge-sm py-2 me-1 mb-2 text-uppercase">Facility Management</span></a>
+								<a href="#"><span class="badge badge-dark bg-color-black badge-sm py-2 me-1 mb-2 text-uppercase">Asset Integrity Verification</span></a>
+								<a href="#"><span class="badge badge-dark bg-color-black badge-sm py-2 me-1 mb-2 text-uppercase">Marine</span></a>	
+								<a href="#"><span class="badge badge-dark bg-color-black badge-sm py-2 me-1 mb-2 text-uppercase">EIA & ESIA</span></a>							
+							</p>
 						</div>
 					</div>
 				</div>
-				<div class="footer-copyright bg-transparent">
-					<div class="container">
-						<hr class="bg-color-light opacity-1">
-						<div class="row">
-							<div class="col mt-4 mb-4 pb-5">
-								<p class="text-center text-3 mb-0">Porto © 2021. All Rights Reserved.</p>
+				<div class="footer-copyright">
+					<div class="container py-2">
+						<div class="row py-4">
+							<div class="col-lg-1 d-flex align-items-center justify-content-center justify-content-lg-start mb-2 mb-lg-0">
+								<a href="/" class="logo pe-0 pe-lg-3">
+									<img alt="Enieco Logo" src="/img/logos/enieco_logo.png" height="32">
+								</a>
+							</div>
+							<div class="col-lg-7 d-flex align-items-center justify-content-center justify-content-lg-start mb-4 mb-lg-0">
+								<p>© Copyright {{ now()->year }}. All Rights Reserved.</p>
+							</div>
+							<div class="col-lg-4 d-flex align-items-center justify-content-center justify-content-lg-end">
+								<nav id="sub-menu">
+									<ul>
+										<li><i class="fas fa-angle-right"></i><a href="/faqs" class="ms-1 text-decoration-none"> FAQ's</a></li>
+										<li><i class="fas fa-angle-right"></i><a href="/sitemap" class="ms-1 text-decoration-none"> Sitemap</a></li>
+										<li><i class="fas fa-angle-right"></i><a href="/contact" class="ms-1 text-decoration-none"> Contact Us</a></li>
+									</ul>
+								</nav>
 							</div>
 						</div>
 					</div>
