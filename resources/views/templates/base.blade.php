@@ -75,13 +75,13 @@
 										<nav class="header-nav-top">
 											<ul class="nav nav-pills">
 												<li class="nav-item py-2 d-none d-sm-inline-flex pe-2">
-													<span class="ps-0 font-weight-semibold text-color-default text-2-5">Fahaheel, Boubyan Bank Bldg, Office # 23, 5th Floor</span>
+													<span class="ps-0 font-weight-semibold text-color-default text-2-5"><i class="icon-location-pin text-primary"></i>&nbsp;5th Floor, Office # 23, Boubyan Bank Building, Behind LuLu Center, Fahaheel, Kuwait</span>
 												</li>
 												<li class="nav-item py-2 pe-2">
-													<a href="tel:+96523927425" class="text-color-default text-2-5 text-color-hover-primary font-weight-semibold">+965 239274250</a>
+													<i class="icon-screen-smartphone text-primary"></i><a href="tel:+96523927425" class="text-color-default text-2-5 text-color-hover-primary font-weight-semibold">+965 23927425</a>
 												</li>
-												<li class="nav-item py-2 d-none d-md-inline-flex">
-													<a href="mailto:info@enieco.com" class="text-color-default text-2-5 text-color-hover-primary font-weight-semibold">info@enieco.com</a>
+												<li class="nav-item py-2 pe-2">
+												<i class="icon-envelope text-primary"></i><a href="mailto:info@enieco.com" class="text-color-default text-2-5 text-color-hover-primary font-weight-semibold">info@enieco.com</a>
 												</li>
 											</ul>
 										</nav>
