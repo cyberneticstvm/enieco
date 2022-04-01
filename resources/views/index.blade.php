@@ -1,6 +1,6 @@
 @extends("templates.base")
 
-@section("home")
+@section("content")
 <div role="main" class="main">
     <section class="section border-0 m-0 bg-color-quaternary p-relative">
         <div class="container">
@@ -51,37 +51,37 @@
                                 <div class="owl-carousel owl-theme stage-margin rounded-nav nav-dark nav-icon-1 nav-size-md nav-position-1" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 2}, '979': {'items': 2}, '1199': {'items': 2}}, 'margin': 10, 'loop': true, 'nav': true, 'dots': false, 'stagePadding': 40}">
                                     <div class="overlay overlay-color-primary overlay-show overlay-op-8 rounded overflow-hidden">
                                         <img alt="Enieco Inspection" class="img-fluid rounded" src="img/demos/business-consulting-4/generic/divisions-bg-1.webp">
-                                        <a href="#" class="p-absolute z-index-2 top-0 left-0 w-100 h-100 anim-hover-translate-top-5px transition-2ms">
+                                        <a href="/divisions/third-party-inspection" class="p-absolute z-index-2 top-0 left-0 w-100 h-100 anim-hover-translate-top-5px transition-2ms">
                                             <span class="p-absolute left-0 bottom-0 text-color-light text-start ms-4 mb-3 ps-2 pb-1">
-                                                <strong class="text-5 negative-ls-05 font-weight-bold">ENIECO INSPECTION</strong>
-                                                <p class="font-weight-medium text-color-light opacity-7 p-relative bottom-4 mb-0">Lorem ipsum dolor sit amet...</p>
+                                                <strong class="text-5 negative-ls-05 font-weight-bold">Third Party Inspection</strong>
+                                                <p class="font-weight-medium text-color-light opacity-7 p-relative bottom-4 mb-0">Inspection activities performed at manufacture's ..</p>
                                             </span>
                                         </a>
                                     </div>
                                     <div class="overlay overlay-color-dark overlay-show overlay-op-9 rounded overflow-hidden">
                                         <img alt="Enieco IT Solutions" class="img-fluid rounded" src="img/demos/business-consulting-4/generic/divisions-bg-2.webp">
-                                        <a href="#" class="p-absolute z-index-2 top-0 left-0 w-100 h-100 anim-hover-translate-top-5px transition-2ms">
+                                        <a href="/divisions/environment-consultancy-and-social-impact-assessment" class="p-absolute z-index-2 top-0 left-0 w-100 h-100 anim-hover-translate-top-5px transition-2ms">
                                             <span class="p-absolute left-0 bottom-0 text-color-light text-start ms-4 mb-3 ps-2 pb-1">
-                                                <strong class="text-5 negative-ls-05 font-weight-bold">ENIECO IT SOLUTIONS</strong>
-                                                <p class="font-weight-medium text-color-light opacity-7 p-relative bottom-4 mb-0">Lorem ipsum dolor sit amet...</p>
+                                                <strong class="text-5 negative-ls-05 font-weight-bold">EIA & ESIA</strong>
+                                                <p class="font-weight-medium text-color-light opacity-7 p-relative bottom-4 mb-0">Environmental Impact Assessment (EIA) ..</p>
                                             </span>
                                         </a>
                                     </div>
                                     <div class="overlay overlay-color-primary overlay-show overlay-op-8 rounded overflow-hidden">
                                         <img alt="Enieco Facility Management" class="img-fluid rounded" src="img/demos/business-consulting-4/generic/divisions-bg-1.webp">
-                                        <a href="#" class="p-absolute z-index-2 top-0 left-0 w-100 h-100 anim-hover-translate-top-5px transition-2ms">
+                                        <a href="/divisions/facility-management-services" class="p-absolute z-index-2 top-0 left-0 w-100 h-100 anim-hover-translate-top-5px transition-2ms">
                                             <span class="p-absolute left-0 bottom-0 text-color-light text-start ms-4 mb-3 ps-2 pb-1">
-                                                <strong class="text-5 negative-ls-05 font-weight-bold">ENIECO FACILITY MANAGEMENT</strong>
-                                                <p class="font-weight-medium text-color-light opacity-7 p-relative bottom-4 mb-0">Lorem ipsum dolor sit amet...</p>
+                                                <strong class="text-5 negative-ls-05 font-weight-bold">Facility Management Services</strong>
+                                                <p class="font-weight-medium text-color-light opacity-7 p-relative bottom-4 mb-0">We provide various type of Manpower viz ..</p>
                                             </span>
                                         </a>
                                     </div>
                                     <div class="overlay overlay-color-dark overlay-show overlay-op-9 rounded overflow-hidden">
                                         <img alt="Enieco Technical Staffing" class="img-fluid rounded" src="img/demos/business-consulting-4/generic/divisions-bg-2.webp">
-                                        <a href="#" class="p-absolute z-index-2 top-0 left-0 w-100 h-100 anim-hover-translate-top-5px transition-2ms">
+                                        <a href="/divisions/enieco-building-constructions" class="p-absolute z-index-2 top-0 left-0 w-100 h-100 anim-hover-translate-top-5px transition-2ms">
                                             <span class="p-absolute left-0 bottom-0 text-color-light text-start ms-4 mb-3 ps-2 pb-1">
-                                                <strong class="text-5 negative-ls-05 font-weight-bold">ENIECO TECHNICAL STAFFING</strong>
-                                                <p class="font-weight-medium text-color-light opacity-7 p-relative bottom-4 mb-0">Lorem ipsum dolor sit amet...</p>
+                                                <strong class="text-5 negative-ls-05 font-weight-bold">Enieco Building Construction</strong>
+                                                <p class="font-weight-medium text-color-light opacity-7 p-relative bottom-4 mb-0">We performs a variety of infrastructure ..</p>
                                             </span>
                                         </a>
                                     </div>

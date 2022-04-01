@@ -1,6 +1,6 @@
 @extends("templates.base")
 
-@section("careers")
+@section("content")
 <div role="main" class="main">
     <section class="section border-0 m-0 bg-transparent" id="start">
         <div class="container py-5 mt-5">

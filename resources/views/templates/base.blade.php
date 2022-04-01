@@ -134,44 +134,58 @@
 														</a>
 														<ul class="dropdown-menu">
 															<li>
-																<a href="/" class="dropdown-item">Inspection</a>
+																<a href="/services/inspection" class="dropdown-item">Inspection</a>
 															</li>
                                                             <li>
-																<a href="/" class="dropdown-item">Expediting</a>
+																<a href="/services/expediting" class="dropdown-item">Expediting</a>
 															</li>
                                                             <li>
-																<a href="/" class="dropdown-item">Integrated Management System and Consulting</a>
+																<a href="/services/integrated-manaegement-system-and-consulting" class="dropdown-item">Integrated Management System and Consulting</a>
 															</li>
                                                             <li>
-																<a href="/" class="dropdown-item">Engineering</a>
+																<a href="/services/engineering" class="dropdown-item">Engineering</a>
 															</li>
                                                             <li>
-																<a href="/" class="dropdown-item">Technical Staffing</a>
+																<a href="/services/technical-staffing" class="dropdown-item">Technical Staffing</a>
 															</li>
                                                             <li>
-																<a href="/" class="dropdown-item">Asset Integrity Verification Services</a>
+																<a href="/services/asset-integrity-verification-services" class="dropdown-item">Asset Integrity Verification Services</a>
 															</li>
                                                             <li>
-																<a href="/" class="dropdown-item">Marine Surveying Services</a>
+																<a href="/services/marine-surveying-services" class="dropdown-item">Marine Surveying Services</a>
 															</li>
                                                             <li>
-																<a href="/" class="dropdown-item">NDT Services / UT Thickness Gauging Services</a>
+																<a href="/services/ndt-ut-thickness-gauging-services" class="dropdown-item">NDT Services / UT Thickness Gauging Services</a>
 															</li>
 															<li>
-																<a href="/" class="dropdown-item">Environmental Impact Assessments (EIA & ESIA)</a>
+																<a href="/services/environmental-impact-assessment" class="dropdown-item">Environmental Impact Assessments (EIA & ESIA)</a>
 															</li>
 															<li>
-																<a href="/" class="dropdown-item">Social Impact Assessment</a>
+																<a href="/services/social-impact-assessment" class="dropdown-item">Social Impact Assessment</a>
 															</li>
                                                             <li>
-																<a href="/" class="dropdown-item">Facility Management</a>
+																<a href="/services/facility-management" class="dropdown-item">Facility Management</a>
 															</li>
 														</ul>
 													</li>
-													<li>
-														<a class="nav-link {{ Request::path() === 'divisions' ? 'active' : '' }}" href="/divisions">
+													<li class="dropdown">
+														<a class="nav-link dropdown-toggle {{ Request::path() === 'divisions' ? 'active' : '' }}" href="/divisions">
 															DIVISIONS
 														</a>
+														<ul class="dropdown-menu">
+															<li>
+																<a href="/divisions/third-party-inspection" class="dropdown-item">Third Party Inspection</a>
+															</li>
+															<li>
+																<a href="/divisions/environment-consultancy-and-social-impact-assessment" class="dropdown-item">Environment Consultancy & Social Impact Assessment</a>
+															</li>
+															<li>
+																<a href="/divisions/facility-management-services" class="dropdown-item">Facility Management Services</a>
+															</li>
+															<li>
+																<a href="/divisions/enieco-building-constructions" class="dropdown-item">Enieco Building Construction</a>
+															</li>
+														</ul>
 													</li>
 													<li>
 														<a class="nav-link {{ Request::path() === 'partners' ? 'active' : '' }}" href="/partners">
@@ -202,10 +216,7 @@
 					</div>
 				</div>
 			</header>
-            @yield("home")
-            @yield("contact")
-            @yield("careers")
-            @yield("about")
+            @yield("content")
 			<footer id="footer">
 				<div class="container">
 					<div class="footer-ribbon">
