@@ -75,10 +75,10 @@
 										<nav class="header-nav-top">
 											<ul class="nav nav-pills">
 												<li class="nav-item py-2 d-none d-sm-inline-flex pe-2">
-													<span class="ps-0 font-weight-semibold text-color-default text-2-5"><i class="icon-location-pin text-primary"></i>&nbsp;5th Floor, Office # 23, Boubyan Bank Building, Behind LuLu Center, Fahaheel, Kuwait</span>
+													<span class="ps-0 font-weight-semibold text-color-default text-2-5"><i class="icon-location-pin text-primary"></i>&nbsp;5th Floor, Office #406, Street-56, Block #11, Building #7501, Fahaheel, Kuwait</span>
 												</li>
 												<li class="nav-item py-2 pe-2">
-													<i class="icon-screen-smartphone text-primary"></i><a href="tel:+96523927425" class="text-color-default text-2-5 text-color-hover-primary font-weight-semibold">+965 23927425</a>
+													<i class="icon-screen-smartphone text-primary"></i><a href="tel:+96550257959" class="text-color-default text-2-5 text-color-hover-primary font-weight-semibold">+965 50257959</a>
 												</li>
 												<li class="nav-item py-2 pe-2">
 												<i class="icon-envelope text-primary"></i><a href="mailto:info@enieco.com" class="text-color-default text-2-5 text-color-hover-primary font-weight-semibold">info@enieco.com</a>
@@ -237,7 +237,7 @@
 										<div class="media-body">
 											<a href="#">
 												<h6 class="text-3 text-color-light opacity-8 ls-0 mb-1">STATE OF KUWAIT</h6>
-												<p class="text-justify">5th Floor, Office # 23, Boubyan Bank Building, Behind LuLu Center, Fahaheel, Kuwait<br/><span class="text-color-primary">Mob: +965 50257959<br/>Land Line: +965 23927425</span></p>
+												<p class="text-justify">5th Floor, Office #406, Street-56, Block #11, Building #7501, Fahaheel, Kuwait<br/><span class="text-color-primary">Mob: +965 50257959<br/>Land Line: +965 23927425</span></p>
 											</a>
 										</div>
 									</article>

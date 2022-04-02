@@ -256,6 +256,17 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-md-3 col-lg-3 mb-5 mt-3 mb-lg-0 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
+                    <div class="card card-border card-border-bottom card-border-hover bg-color-light box-shadow-6 box-shadow-hover anim-hover-translate-top-10px transition-3ms">
+                        <div class="card-body">
+                            <div class="text-center">
+                                <a href="https://kride.in/" target="_blank">
+                                    <img alt="kride" src="/img/logos/k-ride.png" height="30">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
