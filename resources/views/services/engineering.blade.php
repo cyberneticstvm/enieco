@@ -26,7 +26,11 @@
                     <hr class="solid my-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
                 </div>
                 <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation mt-5" data-appear-animation="fadeInRightShorter">
-                    <img src="/img/assets/services/aerial-view-business-team.webp" class="img-fluid mb-2" alt="Enieco Integrated Management System">
+                    <span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-slow-image-zoom-hover">
+						<span class="thumb-info-wrapper">
+                            <img src="/img/assets/services/steel-pipelines-cables-plant.webp" class="img-fluid mb-2" alt="Enieco Engineering">
+                        </span>
+                    </span>                    
                 </div>
             </div>            
         </div>

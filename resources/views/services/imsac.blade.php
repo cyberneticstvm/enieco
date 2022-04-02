@@ -25,8 +25,12 @@
                     <p class="lead appear-animation text-dark text-justify" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700"><a href='/'>ENIECO</a> provide organizational change-management assistance, development of coaching skills, process analysis, technology implementation, strategy development or operational improvement services. Management consultants often bring their own proprietary methodologies or frameworks to guide the identification of problems and to serve as the basis for recommendations with a view to more effective or efficient ways of performing work tasks.</p>
                     <hr class="solid my-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
                 </div>
-                <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation mt-5" data-appear-animation="fadeInRightShorter">
-                    <img src="/img/assets/services/aerial-view-business-team.webp" class="img-fluid mb-2" alt="Enieco Integrated Management System">
+                <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation mt-5" data-appear-animation="fadeInRightShorter">                    
+                    <span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-slow-image-zoom-hover">
+						<span class="thumb-info-wrapper">
+                            <img src="/img/assets/services/aerial-view-business-team.webp" class="img-fluid mb-2" alt="Enieco Integrated Management System">
+                        </span>
+                    </span>
                 </div>
             </div>            
         </div>

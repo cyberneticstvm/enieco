@@ -29,6 +29,14 @@ Route::get('/careers', function () {
     return view('careers');
 });
 
+Route::get('/partners', function () {
+    return view('partners');
+});
+
+Route::get('/clients', function () {
+    return view('clients');
+});
+
 Route::get('/services/inspection', function () {
     return view('services.inspection');
 });

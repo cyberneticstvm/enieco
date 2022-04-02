@@ -146,30 +146,33 @@
                     </div>
 
                     <div class="appear-animation custom-element-wrapper custom-element-11 p-relative rotate-r-45" data-appear-animation="fadeIn" data-appear-animation-delay="300">
-                        <img class="img-fluid" src="img/demos/business-consulting-4/generic/generic-6.jpg" alt="">
+                        <img class="img-fluid" src="img/assets/positive-male-customer-presenting-new-product.webp" alt="Enieco Man">
                     </div>
 
                 </div>
                 <div class="col-lg-6 pt-5 mt-5 pt-lg-0 mt-lg-0">
                     <div class="appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">
-                        <p class="font-weight-medium text-4-5 line-height-5">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
-                        <p class="text-3-5">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet.</p>
-
+                        <p class="font-weight-medium text-4-5 line-height-5 text-justify"><a href="#">ENIECO</a> pride ourselves in offering innovative and comprehensive solutions across a wide spectrum of environmental services encompassing environmental and social impact assessments, audits, processes, technologies in tigating possible risks and focusing on sustainable development thereby protecting nature and natural resources.</p>
+                        <p class="text-3-5">We will continue to maintain its distinguished status among the environmental consultation firms through committed, strong and sincere partnership.</p>
+                        <p class="font-weight-bold">Our Divisions</p>
                         <ul class="list list-icons list-icons-style-2 list-icons-lg">
                             <li class="line-height-9 text-3-5 mb-1">
-                                <i class="fas fa-check border-width-2 text-3"></i>Amet orci quis arcu vestibulum vestibulum.
+                                <i class="fas fa-check border-width-2 text-3"></i><a href='/divisions/third-party-inspection'>Third Party Inspection</a>
                             </li>
                             <li class="line-height-9 text-3-5 mb-1">
-                                <i class="fas fa-check border-width-2 text-3"></i>Quis arcu vestibulum vestibulum.
+                                <i class="fas fa-check border-width-2 text-3"></i><a href='divisions/environment-consultancy-and-social-impact-assessment'>Environmental Consultancy and Social Impact Assessment</a>
                             </li>
                             <li class="line-height-9 text-3-5 mb-1">
-                                <i class="fas fa-check border-width-2 text-3"></i>Sit amet orci quis arcu.
+                                <i class="fas fa-check border-width-2 text-3"></i><a href='/divisions/facility-management-services'>Facility Management Services</a>
+                            </li>
+                            <li class="line-height-9 text-3-5 mb-1">
+                                <i class="fas fa-check border-width-2 text-3"></i><a href='/divisions/enieco-building-constructions'>Building Constructions</a>
                             </li>
                         </ul>
                     </div>
 
                     <div class="d-block pt-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">
-                        <a href="demo-business-consulting-4-about-us.html" class="btn btn-modern btn-primary btn-arrow-effect-1 text-capitalize text-2-5 px-5 py-3 anim-hover-translate-top-5px transition-2ms">Learn More <i class="fas fa-arrow-right ms-2"></i></a>
+                        <a href="/about" class="btn btn-modern btn-primary btn-arrow-effect-1 text-capitalize text-2-5 px-5 py-3 anim-hover-translate-top-5px transition-2ms">Learn More <i class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -177,34 +180,31 @@
     </section>
 
     <section class="section border-0 bg-quaternary m-0">
-        <div class="container py-5">
+        <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-9 text-center">
-
                     <div class="divider divider-small divider-small-lg mt-0 text-center appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
                         <hr class="bg-primary border-radius m-auto">
                     </div>
                     <div class="overflow-hidden mb-1">
                         <h3 class="font-weight-semi-bold text-color-grey text-uppercase positive-ls-3 text-4 line-height-2 line-height-sm-7 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="100">How We Can Help</h3>
                     </div>
-                    <h2 class="text-color-dark font-weight-bold text-8 pb-4 mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Our Amazing Services</h2>
+                    <h2 class="text-color-dark font-weight-bold text-8 pb-4 mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Our Services</h2>
 
-                    <p class="font-weight-medium text-4-5 line-height-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non.</p>
-
+                    <p class="font-weight-medium text-4-5 line-height-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">We have a team of professionally qualified, experienced, dedicated supervisors and working force to provide 24/7 hours un- interrupted services to near perfection standards within any given time to customer's satisfaction.</p>
                 </div>
             </div>
-
             <div class="row py-5 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">
                 <div class="col-md-4 mb-4 mb-md-0">
                     <div class="card card-border card-border-top card-border-hover bg-color-light border-0 box-shadow-6 box-shadow-hover anim-hover-translate-top-10px transition-3ms anim-hover-inner-wrapper">
                         <div class="card-body p-relative zindex-1 p-5 text-center">
                             <div class="anim-hover-inner-translate-top-20px transition-3ms">
-                                <img width="72" height="73" src="img/demos/business-consulting-4/icons/icon-1.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
-                                <h4 class="card-title mt-4 mb-2 text-5 font-weight-bold">Strategic Planning</h4>
-                                <p class="card-text text-3-5">Lorem ipsum dolor sit amet, consectetur elit.</p>
+                                <img width="72" height="73" src="img/demos/business-consulting-4/icons/icon-ok.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
+                                <h4 class="card-title mt-4 mb-2 text-5 font-weight-bold">Inspection</h4>
+                                <p class="card-text text-3-5 text-justify">Vendor Inspection sometimes referred to as Source Inspection or Third Party Inspection covers..</p>
                             </div>
                             <div class="w-100 text-center p-absolute opacity-0 bottom-30 left-0 transformY-p100 anim-hover-inner-opacity-10 anim-hover-inner-translate-top-0px transition-4ms">
-                                <a href="demo-business-consulting-4-services-detail.html" class="read-more text-color-primary font-weight-semibold mt-2 text-2">Learn More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
+                                <a href="/services/inspection" class="read-more text-color-primary font-weight-semibold mt-2 text-2">Learn More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -213,12 +213,12 @@
                     <div class="card card-border card-border-top card-border-hover bg-color-light border-0 box-shadow-6 box-shadow-hover anim-hover-translate-top-10px transition-3ms anim-hover-inner-wrapper">
                         <div class="card-body p-relative zindex-1 p-5 text-center">
                             <div class="anim-hover-inner-translate-top-20px transition-3ms">
-                                <img width="72" height="73" src="img/demos/business-consulting-4/icons/icon-2.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
-                                <h4 class="card-title mt-4 mb-2 text-5 font-weight-bold">Financial Clean-Up</h4>
-                                <p class="card-text text-3-5">Lorem ipsum dolor sit amet, consectetur elit.</p>
+                                <img width="72" height="73" src="img/demos/business-consulting-4/icons/icon-ok.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
+                                <h4 class="card-title mt-4 mb-2 text-5 font-weight-bold">Expediting</h4>
+                                <p class="card-text text-3-5 text-justify">In the past, Expediting has been considered a corrective function rather than a preventive function..</p>
                             </div>
                             <div class="w-100 text-center p-absolute opacity-0 bottom-30 left-0 transformY-p100 anim-hover-inner-opacity-10 anim-hover-inner-translate-top-0px transition-4ms">
-                                <a href="demo-business-consulting-4-services-detail.html" class="read-more text-color-primary font-weight-semibold mt-2 text-2">Learn More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
+                                <a href="/services/expediting" class="read-more text-color-primary font-weight-semibold mt-2 text-2">Learn More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -227,25 +227,172 @@
                     <div class="card card-border card-border-top card-border-hover bg-color-light border-0 box-shadow-6 box-shadow-hover anim-hover-translate-top-10px transition-3ms anim-hover-inner-wrapper">
                         <div class="card-body p-relative zindex-1 p-5 text-center">
                             <div class="anim-hover-inner-translate-top-20px transition-3ms">
-                                <img width="72" height="73" src="img/demos/business-consulting-4/icons/icon-3.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
-                                <h4 class="card-title mt-4 mb-2 text-5 font-weight-bold">Cash Flow Planning</h4>
-                                <p class="card-text text-3-5">Lorem ipsum dolor sit amet, consectetur elit.</p>
+                                <img width="72" height="73" src="img/demos/business-consulting-4/icons/icon-ok.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
+                                <h4 class="card-title mt-4 mb-2 text-5 font-weight-bold">Integrated Management System and Consulting</h4>
+                                <p class="card-text text-3-5 text-justify">Management consulting is the practice of helping organizations..</p>
                             </div>
                             <div class="w-100 text-center p-absolute opacity-0 bottom-30 left-0 transformY-p100 anim-hover-inner-opacity-10 anim-hover-inner-translate-top-0px transition-4ms">
-                                <a href="demo-business-consulting-4-services-detail.html" class="read-more text-color-primary font-weight-semibold mt-2 text-2">Learn More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
+                                <a href="/services/integrated-manaegement-system-and-consulting" class="read-more text-color-primary font-weight-semibold mt-2 text-2">Learn More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mt-3">
+                    <div class="card card-border card-border-top card-border-hover bg-color-light border-0 box-shadow-6 box-shadow-hover anim-hover-translate-top-10px transition-3ms anim-hover-inner-wrapper">
+                        <div class="card-body p-relative zindex-1 p-5 text-center">
+                            <div class="anim-hover-inner-translate-top-20px transition-3ms">
+                                <img width="72" height="73" src="img/demos/business-consulting-4/icons/icon-ok.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
+                                <h4 class="card-title mt-4 mb-2 text-5 font-weight-bold">Engineering</h4>
+                                <p class="card-text text-3-5 text-justify">Temporary spikes in demand for engineering resources and the need to control project and salary costs..</p>
+                            </div>
+                            <div class="w-100 text-center p-absolute opacity-0 bottom-30 left-0 transformY-p100 anim-hover-inner-opacity-10 anim-hover-inner-translate-top-0px transition-4ms">
+                                <a href="/services/engineering" class="read-more text-color-primary font-weight-semibold mt-2 text-2">Learn More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mt-3">
+                    <div class="card card-border card-border-top card-border-hover bg-color-light border-0 box-shadow-6 box-shadow-hover anim-hover-translate-top-10px transition-3ms anim-hover-inner-wrapper">
+                        <div class="card-body p-relative zindex-1 p-5 text-center">
+                            <div class="anim-hover-inner-translate-top-20px transition-3ms">
+                                <img width="72" height="73" src="img/demos/business-consulting-4/icons/icon-ok.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
+                                <h4 class="card-title mt-4 mb-2 text-5 font-weight-bold">Technical Staffing</h4>
+                                <p class="card-text text-3-5 text-justify">Finding the right candidates fast for your contract technical staffing needs can be a challenge..</p>
+                            </div>
+                            <div class="w-100 text-center p-absolute opacity-0 bottom-30 left-0 transformY-p100 anim-hover-inner-opacity-10 anim-hover-inner-translate-top-0px transition-4ms">
+                                <a href="/services/technical-staffing" class="read-more text-color-primary font-weight-semibold mt-2 text-2">Learn More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mt-3">
+                    <div class="card card-border card-border-top card-border-hover bg-color-light border-0 box-shadow-6 box-shadow-hover anim-hover-translate-top-10px transition-3ms anim-hover-inner-wrapper">
+                        <div class="card-body p-relative zindex-1 p-5 text-center">
+                            <div class="anim-hover-inner-translate-top-20px transition-3ms">
+                                <img width="72" height="73" src="img/demos/business-consulting-4/icons/icon-ok.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
+                                <h4 class="card-title mt-4 mb-2 text-5 font-weight-bold">Asset Integrity Verification Services</h4>
+                                <p class="card-text text-3-5 text-justify">It is necessary to maintain asset integrity to avoid unplanned..</p>
+                            </div>
+                            <div class="w-100 text-center p-absolute opacity-0 bottom-30 left-0 transformY-p100 anim-hover-inner-opacity-10 anim-hover-inner-translate-top-0px transition-4ms">
+                                <a href="/services/asset-integrity-verification-services" class="read-more text-color-primary font-weight-semibold mt-2 text-2">Learn More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mt-3">
+                    <div class="card card-border card-border-top card-border-hover bg-color-light border-0 box-shadow-6 box-shadow-hover anim-hover-translate-top-10px transition-3ms anim-hover-inner-wrapper">
+                        <div class="card-body p-relative zindex-1 p-5 text-center">
+                            <div class="anim-hover-inner-translate-top-20px transition-3ms">
+                                <img width="72" height="73" src="img/demos/business-consulting-4/icons/icon-ok.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
+                                <h4 class="card-title mt-4 mb-2 text-5 font-weight-bold">Marine Surveying Services</h4>
+                                <p class="card-text text-3-5 text-justify">Inspection of life rafts, rescue boats, davits, lifejackets and deployment systems..</p>
+                            </div>
+                            <div class="w-100 text-center p-absolute opacity-0 bottom-30 left-0 transformY-p100 anim-hover-inner-opacity-10 anim-hover-inner-translate-top-0px transition-4ms">
+                                <a href="/services/marine-surveying-services" class="read-more text-color-primary font-weight-semibold mt-2 text-2">Learn More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mt-3">
+                    <div class="card card-border card-border-top card-border-hover bg-color-light border-0 box-shadow-6 box-shadow-hover anim-hover-translate-top-10px transition-3ms anim-hover-inner-wrapper">
+                        <div class="card-body p-relative zindex-1 p-5 text-center">
+                            <div class="anim-hover-inner-translate-top-20px transition-3ms">
+                                <img width="72" height="73" src="img/demos/business-consulting-4/icons/icon-ok.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
+                                <h4 class="card-title mt-4 mb-2 text-5 font-weight-bold">NDT / UT Thickness Gauging Services</h4>
+                                <p class="card-text text-3-5 text-justify">Non-Destructive Testing (NDT) or Ultrasonic Thickness Gauging..</p>
+                            </div>
+                            <div class="w-100 text-center p-absolute opacity-0 bottom-30 left-0 transformY-p100 anim-hover-inner-opacity-10 anim-hover-inner-translate-top-0px transition-4ms">
+                                <a href="/services/ndt-ut-thickness-gauging-services" class="read-more text-color-primary font-weight-semibold mt-2 text-2">Learn More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mt-3">
+                    <div class="card card-border card-border-top card-border-hover bg-color-light border-0 box-shadow-6 box-shadow-hover anim-hover-translate-top-10px transition-3ms anim-hover-inner-wrapper">
+                        <div class="card-body p-relative zindex-1 p-5 text-center">
+                            <div class="anim-hover-inner-translate-top-20px transition-3ms">
+                                <img width="72" height="73" src="img/demos/business-consulting-4/icons/icon-ok.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
+                                <h4 class="card-title mt-4 mb-2 text-5 font-weight-bold">EIA & ESIA</h4>
+                                <p class="card-text text-3-5 text-justify">Environmental Impact Assessment (EIA) is used to identify and assess the environmental and social..</p>
+                            </div>
+                            <div class="w-100 text-center p-absolute opacity-0 bottom-30 left-0 transformY-p100 anim-hover-inner-opacity-10 anim-hover-inner-translate-top-0px transition-4ms">
+                                <a href="/services/environmental-impact-assessment" class="read-more text-color-primary font-weight-semibold mt-2 text-2">Learn More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mt-3">
+                    <div class="card card-border card-border-top card-border-hover bg-color-light border-0 box-shadow-6 box-shadow-hover anim-hover-translate-top-10px transition-3ms anim-hover-inner-wrapper">
+                        <div class="card-body p-relative zindex-1 p-5 text-center">
+                            <div class="anim-hover-inner-translate-top-20px transition-3ms">
+                                <img width="72" height="73" src="img/demos/business-consulting-4/icons/icon-ok.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
+                                <h4 class="card-title mt-4 mb-2 text-5 font-weight-bold">Social Impact Assessment</h4>
+                                <p class="card-text text-3-5 text-justify">Social impact assessment (SIA) is the process of identifying and managing the social impacts of..</p>
+                            </div>
+                            <div class="w-100 text-center p-absolute opacity-0 bottom-30 left-0 transformY-p100 anim-hover-inner-opacity-10 anim-hover-inner-translate-top-0px transition-4ms">
+                                <a href="/services/social-impact-assessment" class="read-more text-color-primary font-weight-semibold mt-2 text-2">Learn More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mt-3">
+                    <div class="card card-border card-border-top card-border-hover bg-color-light border-0 box-shadow-6 box-shadow-hover anim-hover-translate-top-10px transition-3ms anim-hover-inner-wrapper">
+                        <div class="card-body p-relative zindex-1 p-5 text-center">
+                            <div class="anim-hover-inner-translate-top-20px transition-3ms">
+                                <img width="72" height="73" src="img/demos/business-consulting-4/icons/icon-ok.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
+                                <h4 class="card-title mt-4 mb-2 text-5 font-weight-bold">Facility Management</h4>
+                                <p class="card-text text-3-5 text-justify">Our resources listed below - are trained to integrate to the clients requirements with our services..</p>
+                            </div>
+                            <div class="w-100 text-center p-absolute opacity-0 bottom-30 left-0 transformY-p100 anim-hover-inner-opacity-10 anim-hover-inner-translate-top-0px transition-4ms">
+                                <a href="/services/facility-management" class="read-more text-color-primary font-weight-semibold mt-2 text-2">Learn More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
-            <div class="row justify-content-center">
-                <div class="col col-lg-9 text-center">
-
-                    <div class="d-block pt-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">
-                        <a href="demo-business-consulting-4-services.html" class="btn btn-modern btn-primary btn-arrow-effect-1 text-capitalize text-2-5 px-5 py-3 anim-hover-translate-top-5px transition-2ms">Learn More <i class="fas fa-arrow-right ms-2"></i></a>
+        </div>
+    </section>
+    <section class="section border-0 bg-transparent">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <div class="divider divider-small divider-small-lg mt-0 text-center appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
+                        <hr class="bg-primary border-radius m-auto">
                     </div>
-
+                    <div class="overflow-hidden mb-1">
+                        <h3 class="font-weight-semi-bold text-color-grey text-uppercase positive-ls-3 text-4 line-height-2 line-height-sm-7 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="100">CLIENTS</h3>
+                    </div>
+                    <h2 class="text-color-dark font-weight-bold text-8 pb-2 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Our elite client list includes following global giants.</h2>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col">
+                    <div class="owl-carousel owl-theme carousel-center-active-item" data-plugin-options="{'responsive': {'0': {'items': 1}, '476': {'items': 1}, '768': {'items': 5}, '992': {'items': 7}, '1200': {'items': 7}}, 'autoplay': true, 'autoplayTimeout': 3000, 'dots': false}">
+                        <div>
+                            <img class="img-fluid" src="/img/logos/saipem.svg" alt="">
+                        </div>
+                        <div>
+                            <img class="img-fluid" src="/img/logos/logo_larsen_toubro.jpg" alt="">
+                        </div>
+                        <div>
+                            <img class="img-fluid" src="/img/logos/petrofac.svg" alt="">
+                        </div>
+                        <div>
+                            <img class="img-fluid" src="/img/logos/hyundai.svg" alt="">
+                        </div>
+                        <div>
+                            <img class="img-fluid" src="/img/logos/dodsal-shine.png" alt="">
+                        </div>
+                        <div>
+                            <img class="img-fluid" src="/img/logos/LogoApplus.png" alt="">
+                        </div>
+                        <div>
+                            <img class="img-fluid" src="/img/logos/technip.svg" alt="">
+                        </div>
+                        <div>
+                            <img class="img-fluid" src="/img/logos/essar_group_logo.jpg" alt="">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

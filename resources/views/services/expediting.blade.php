@@ -28,8 +28,12 @@
                     <p class="lead appear-animation text-dark text-justify" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">Depending on client requirements, expediting services may apply at different stages of a project such as fabrication and assembly, rectification work, material deficit, failure on test or inspection, shipment and packing, and submission of documentation.</p>
                     <hr class="solid my-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
                 </div>
-                <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation mt-5" data-appear-animation="fadeInRightShorter">
-                    <img src="/img/assets/services/expediting.webp" class="img-fluid mb-2" alt="Enieco Expediting">
+                <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation mt-5" data-appear-animation="fadeInRightShorter">                    
+                    <span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-slow-image-zoom-hover">
+						<span class="thumb-info-wrapper">
+                            <img src="/img/assets/services/expediting.webp" class="img-fluid mb-2" alt="Enieco Expediting">
+                        </span>
+                    </span>
                 </div>
             </div>            
         </div>

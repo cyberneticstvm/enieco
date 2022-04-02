@@ -23,8 +23,12 @@
                     <p class="lead appear-animation text-dark text-justify" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">It is necessary to maintain asset integrity to avoid unplanned downtime and prevent safety and environmental incidents. Asset integrity is the ability of an asset to perform its required function effectively and efficiently whilst protecting health, safety and the environment. <a href="/"> ENIECO </a> Asset Integrity Team (AIT) engages in the inspection, study, verification and reporting associated with the assessment of the capability of an asset to perform its required function throughout the asset's life cycle and ensure operations of the facility continues smooth and unhampered. In addition to regulatory and company requirements, operators of facilities, plants in service and pipelines have the following business needs.</p>
                     <hr class="solid my-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
                 </div>
-                <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation mt-5" data-appear-animation="fadeInRightShorter">
-                    <img src="/img/assets/services/aerial-view-business-team.webp" class="img-fluid mb-2" alt="Enieco Integrated Management System">
+                <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation mt-5" data-appear-animation="fadeInRightShorter">                    
+                    <span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-slow-image-zoom-hover">
+						<span class="thumb-info-wrapper">
+                            <img src="/img/assets/services/aerial-view-business-team.webp" class="img-fluid mb-2" alt="Enieco Asset Integrity Verification Service">
+                        </span>
+                    </span> 
                 </div>
             </div>
             <div class="row">
