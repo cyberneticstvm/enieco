@@ -38,7 +38,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-lg-4 mb-5 mb-lg-0 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
+                <!--<div class="col-md-4 col-lg-4 mb-5 mb-lg-0 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
                     <div class="card">
                         <div class="card-body">
                             <h4 class="card-title mb-1 text-4 font-weight-bold text-center">Dar Al Ahmadi General Trading & Contracting W.L.L</h4>
@@ -49,7 +49,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <div class="col-md-4 col-lg-4 mb-5 mt-5 mb-lg-0 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
                     <div class="card">
                         <div class="card-body">
@@ -62,7 +62,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-lg-4 mb-5 mt-5 mb-lg-0 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
+                <!--<div class="col-md-4 col-lg-4 mb-5 mt-5 mb-lg-0 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
                     <div class="card">
                         <div class="card-body">
                             <h4 class="card-title mb-1 text-4 font-weight-bold text-center">Blue Pearl Marine Services FZE</h4>
@@ -73,7 +73,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <div class="col-md-4 col-lg-4 mb-5 mt-5 mb-lg-0 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
                     <div class="card">
                         <div class="card-body">

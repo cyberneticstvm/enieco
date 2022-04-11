@@ -41,7 +41,7 @@
                                 </div>
                             </div>
 
-                            <img class="appear-animation img-fluid custom-element-wrapper custom-element-8" data-appear-animation="fadeIn" data-appear-animation-delay="900" src="/img/assets/elegant-man-with-folded-arms.webp" alt="Enieco Man">
+                            <img class="appear-animation img-fluid custom-element-wrapper custom-element-8" data-appear-animation="fadeIn" data-appear-animation-delay="900" src="/img/assets/portrait-young-worker-hard-hat-large-metalworking-plant.webp" alt="Enieco Man">
 
                         </div>
                     </div>
@@ -146,7 +146,7 @@
                     </div>
 
                     <div class="appear-animation custom-element-wrapper custom-element-11 p-relative rotate-r-45" data-appear-animation="fadeIn" data-appear-animation-delay="300">
-                        <img class="img-fluid" src="img/assets/positive-male-customer-presenting-new-product.webp" alt="Enieco Man">
+                        <img class="img-fluid" src="img/assets/male-worker-factory.webp" alt="Enieco Man">
                     </div>
 
                 </div>
