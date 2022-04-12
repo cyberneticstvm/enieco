@@ -15,7 +15,7 @@
                 </div>
                 <div class="col-md-7 order-2 mt-5">
                     <div class="overflow-hidden">
-                        <h2 class="text-color-dark font-weight-bold text-12 mb-2 pt-0 mt-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="300">IMS & C</h2>
+                        <h2 class="text-color-dark font-weight-bold text-12 mb-2 pt-0 mt-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="300">IMS & Consulting Services</h2>
                     </div>
                     <div class="overflow-hidden mb-3">
                         <p class="font-weight-bold text-primary text-uppercase mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="500">ESPERTO NOVERO INSPECTION AND ENGINEERING CONSULTANTS</p>

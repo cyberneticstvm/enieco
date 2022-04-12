@@ -37,7 +37,7 @@
                 <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation mt-5" data-appear-animation="fadeInRightShorter">
                     <span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-slow-image-zoom-hover">
 						<span class="thumb-info-wrapper">
-                            <img src="/img/assets/services/white-cruise-ship-neva-saint-petersburg.webp" class="img-fluid mb-2" alt="Enieco Marine Engineering">
+                            <img src="/img/assets/services/white-cruise-ship-neva-saint-petersburg.webp" class="img-fluid mb-2" alt="<a href="/">ENIECO</a> Marine Engineering">
                         </span>
                     </span>
                 </div>
